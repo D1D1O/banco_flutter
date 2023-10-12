@@ -1,7 +1,7 @@
 # alubank
 
 A new Flutter project alubank
-![Uploading image.png…]()
+![image](https://github.com/D1D1O/banco_flutter/assets/31021190/154a96b1-98a1-4e71-9f7c-da196030fb19)
 
 
 ## Getting Started
